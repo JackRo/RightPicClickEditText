@@ -1,3 +1,5 @@
+###实现EditText响应drawableRight点击事件###
+
 这里自定义了一个RightPicClickEditText，继承AppCompatEditText，并且在其三个构造函数中调用父组件的相应构造函数，是为了适配5.0以下应用MD风格，代码如下：
 
     public RightPicClickEditText(Context context) {
