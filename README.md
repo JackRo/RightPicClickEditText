@@ -1,1 +1,1 @@
-[Android实现EditText响应drawableRight的点击事件](http://jackro.cn/android/2016/10/10/Android%E5%AE%9E%E7%8E%B0EditText%E5%93%8D%E5%BA%94drawableRight%E7%82%B9%E5%87%BB%E4%BA%8B%E4%BB%B6.html)
+[Android实现EditText响应drawableRight的点击事件](http://www.jianshu.com/p/6bbae5e183dc)
