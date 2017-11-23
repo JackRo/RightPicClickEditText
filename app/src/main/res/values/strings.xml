@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RightPicClickEditText</string>
+    <string name="click_hint">请点击输入。。。</string>
+</resources>
